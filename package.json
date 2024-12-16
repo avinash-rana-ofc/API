@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api for game development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avinash-rana-ofc/API.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Avinash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash-rana-ofc/API/issues"
+  },
+  "homepage": "https://github.com/avinash-rana-ofc/API#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
